@@ -16,6 +16,8 @@ La lista de ejemplos es la siguiente:
 - Ejemplo 10, control de un motor DC mediante PWM
 - Ejemplo 11, mantemos sincronizado el RTC y los mostramos en pantalla
 - Ejemplo 12, log de un sensor DHT11 en una tarjeta SD
+- Ejemplo 13, encendido de iluminación por Bluetooth
+- Ejemmplo 14, envío de datos a un servidor IoT (Internet of Things)
 
 En la carpeta ***/lib*** se encuentran  las librería empleadas en los ejemplos. Las librerías *logic.py* y *mi_RTC.py* son propias del autor. Deberán cargarse en la memoria del microcontrolador ESP32 las librerias necesarias en cada caso. Se incluyen librerías de otros autores, también. Los enlaces son los siguientes:
 
